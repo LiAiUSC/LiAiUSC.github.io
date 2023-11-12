@@ -37,10 +37,12 @@ My recent works include:
 
 Recent News
 ------
-* Oct, 2023. I am appointed as young academic editor for the *Journal of Traffic and Transportation Engineering (English Edition)*.
+* Nov, 2023. I am appointed as young academic editor for the *Civil Engineering Journal* (IF=4.1).
+* Oct, 2023. I am appointed as young academic editor for the *International Journal of Engineering Sciences and Technologies*.
+* Oct, 2023. I am appointed as young academic editor for the *Journal of Traffic and Transportation Engineering* (IF=7.9).
 * Aug, 2023. I have a new role as a research assistant professor at the University of South Carolina in Fall semester of 2023.
 * May, 2023. I am appointed as youth editorial board member for the *Journal of Intelligent Construction*
-* Apr, 2023. I am appointed as an associate editor for the ASCE journal *Practice Periodical on Structural Design and Construction*.
+* Apr, 2023. I am appointed as an associate editor for the ASCE journal *Practice Periodical on Structural Design and Construction* (IF=1.9).
 * Feb, 2023. My paper entitled "*A Transfer Learning Approach for Acoustic Emission Localization on Steel Plate-like Structure Using Numerical Simulation and Unsupervised Domain Adaptation*" has been accepted for publication on *Mechanical Systems and Signal Processing*.
 * Feb, 2023. My paper entitled "*Localizing Damage on Stainless Steel Structures Using Acoustic Emission Signals and Weighted Ensemble Regression-based Convolutional Neural Network*" has been accepted for publication on *Measurement*.
 * May, 2022. I won the paper competition at AEWG63 and received the Adrian Pollock Student Award.
