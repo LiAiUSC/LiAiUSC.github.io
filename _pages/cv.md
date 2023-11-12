@@ -38,9 +38,11 @@ Professional Services
 ------
 * Editorial board:
    * Associate Editor, *Practice Periodical on Structural Design and Construction-ASCE*
+   * Editorial Board, Civil Engineering Journal
+   * Editorial Board, International Journal of Engineering Sciences and Technologies  
    * Youth Editorial Board, *Journal of Intelligent Construction*
    * Young Academic Editor, *Journal of Traffic and Transportation Engineering*
-   * Editorial Board, *Frontiers in Aerospace*
+   * Review Editor, *Frontiers in Aerospace*
    * Guest Editor, *Measurement Science and Technology*
    * Guest Editor, *Journal of Intelligent Construction*
    * Guest Editor, *Journal of Engineered Fibers and Fabrics*
