@@ -7,6 +7,7 @@ The data and codes which are not publicly released might be available upon reque
 
 In Preparation
 ------
+1. **L Ai**; E Elbatanouny; Laxman K C; P Ziehl. *Application of Digital Twins in Smart Cities: A State-of-the-Art Review*. Target Journal: [TBD](TBD), in preparation.
 
 1. E Elbatanouny; A Henderson; Laxman K C; **L Ai**; P Ziehl. *Full-Scale Experimental Investigation of Prestressed Concrete Channel Bridge Girders Strengthened with Aluminum Channels*. Target Journal: [TBD](TBD), in preparation.
 
@@ -21,21 +22,30 @@ In Preparation
 
 Under Review
 ------
-
 1. **L Ai (✉)**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Enhancing the Rehabilitation of Timber Piles Using Fiber Reinforced Polymer: An Acoustic Emission Analysis Under Compressive Stress*. Engineering Structures. [under review](under review)
 
 1. **L Ai (✉)**; Laxman K C; E Elbatanouny; M Bayat; M van Tooren; P Ziehl. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*. Expert Systems with Applications. [under review](under review)
 
-1. **L Ai**; V Soltangharaei; B Greer; M Bayat; P Ziehl. *Structural Health Monitoring of Stainless-Steel Nuclear Fuel Storage Canister Using Acoustic Emission*. Developments in the Built Environment. [under review](under review)
+1. **L Ai (✉)**; Laxman K C; E Elbatanouny; A Henderson; P Ziehl. *Assisting Load Rating Testing of Precast Reinforced Concrete Bridge Slab through Digital Twins and Field Monitoring Data*. Journal of Testing and Evaluation. [under review](under review)
 
-1. E Elbatanouny; **L Ai (✉)**; A Henderson; Laxman K C; P Ziehl. *An Automated Load Determination System for Bridges based on Acoustic Emission and Machine Learning Techniques*. Construction and Building Materials. [under review](under review)
+1. E Elbatanouny; **L Ai (✉)**; A Henderson; Laxman K C; P Ziehl. *An Automated Load Determination System for Bridges based on Acoustic Emission and Machine Learning Techniques*. Engineering Structures. [under review](under review)
+
+1. E Elbatanouny; A Henderson; **L Ai (✉)**; P Ziehl. *Condition Assessment of Prestressed Concrete Channel Bridge Girders Using Acoustic Emission and Data-Driven Methods*. Structures, under review. [under review](under review)
 
 1. S Zhou; C Wu; Y Hu; D Zhu; **L Ai**. *Investigating the Constitutive Relationship of Steel-fiber-reinforced Recycled Fine Aggregate Concrete under Uniaxial Compression*. Journal of Engineered Fibers and Fabrics. [under review](under review)
 
 1. Y Shi; J Li; X Lv; **L Ai**; X Tan; C Wu. *Research and Application of Feeding-hoisting Equipment for Sealing Leakage in Concentrated Inlets of Earth-rock Dams*. Practice Periodical on Structural Design and Construction-ASCE. [under review](under review)
 
-Pubulished Journal Articles 
+1.	Y Wu; Z Zhao; P Chen; F Guo; Y Qin; S Long; **L Ai**. *Hybrid Learning Architecture for High-Speed Railroad Scene Parsing and Potential Safety Hazard Evaluation of UAV Images*. Measurement. [under review](under review)
+
+1.	D Fang; **L Ai**; J Tan; H Fu. *Immersed Force Analysis of Fish Surface with Carangiform Locomotion*. Physics of Fluids. [under review](under review)
+
+1. L Zhang; K Li; H Wang; D Liu; Z Ma; Q Zhang; M Li; W Zhang; C Wang; **L Ai**. *Research on a Multimodal Fusion Convolutional Physical Information Neural Networks Method for Improving the Precision of AE Source Planar Localization*. Measurement. [under review](under review)
+
+Published Journal Articles 
 ------  
+1. **L Ai**; V Soltangharaei; B Greer; M Bayat; P Ziehl. *Structural Health Monitoring of Stainless-Steel Nuclear Fuel Storage Canister Using Acoustic Emission*. Developments in the Built Environment. [accpeted, in press](accepted, in press)
+
 1. E Elbatanouny; **L Ai (✉)**; E Deaver; P Ziehl. *Impact of Graphene on Microstructure and Compressive Strength of Cement Mortars Utilizing Two Different Dispersion Methods*. Practice Periodical on Structural Design and Construction-ASCE. 2023. [accpeted, in press](accepted, in press)
 
 1. Laxman K C; A Henderson; E Elbatanouny; **L Ai (✉)**; B Ross; T Cousins; P Ziehl. *Cost-effective Methods for Flexural Strengthening of One-way RC Precast Flat Slab Bridges in South Carolina*. Construction and Building Materials. 2023. Vol.408: 133675. [DOI](https://doi.org/10.1016/j.conbuildmat.2023.133675)
@@ -56,7 +66,7 @@ Pubulished Journal Articles
 
 1. **L Ai**; V Soltangharaei; P Ziehl. *Developing a Heterogeneous Ensemble Learning Framework to Evaluate Alkali-silica Reaction Damage in Concrete using Acoustic Emission Signals*. Mechanical Systems and Signal Processing. 2022. Vol.172:108981. [DOI](https://doi.org/10.1016/j.ymssp.2022.108981) [PDF](https://liaiusc.github.io/files/Developing a.pdf) 
 
-1. **L Ai**; V Soltangharaei; P Ziehl. *Evaluation of ASR in Concrete Using Acoustic Emission and deep learning*. Nuclear Engineering and Design. 2021. Vol.380:111328. [DOI](https://doi.org/10.1016/j.nucengdes.2021.111328) [PDF](https://liaiusc.github.io/files/Evaluation of ASR.pdf)
+1. **L Ai**; V Soltangharaei; P Ziehl. *Evaluation of ASR in Concrete Using Acoustic Emission and Deep Learning*. Nuclear Engineering and Design. 2021. Vol.380:111328. [DOI](https://doi.org/10.1016/j.nucengdes.2021.111328) [PDF](https://liaiusc.github.io/files/Evaluation of ASR.pdf)
 
 1. **L Ai**; V Soltangharaei; M Bayat; M van Tooren; P Ziehl. *Detection of Impact on Aircraft Composite Structure Using Machine Learning Techniques*. Measurement Science and Technology. 2021. Vol.32:084013. [DOI](https://doi.org/10.1088/1361-6501/abe790) [PDF](https://liaiusc.github.io/files/MST.pdf)
 
@@ -70,7 +80,7 @@ Pubulished Journal Articles
 
 1. V Soltangharaei; JW Hill; **L Ai**; R Anay; B Greer; M Bayat; P Ziehl. *Acoustic Emission Technique to Identify Stress Corrosion Cracking Damage*. Structural Engineering and Mechanics. 2020. Vol.75:723-736. [DOI](https://doi.org/10.12989/sem.2020.75.6.723) [PDF](https://liaiusc.github.io/files/vafa scc.pdf)
 
-Pubulished Conference Proceedings
+Published Conference Proceedings
 ------
 
 1. **L Ai**; B Henderson; S Houck; S Dickson; P Ziehl. *Identifying the Energy of Low-velocity Impacts on Composite Components Using Acoustic Emission*. 2023 IEEE Aerospace Conference. 2023 Mar 4. [DOI](https://doi.org/10.1109/AERO55745.2023.10116008) [PDF](TBD)
