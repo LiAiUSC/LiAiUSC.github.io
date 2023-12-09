@@ -7,7 +7,21 @@ author_profile: true
 
 This page contains recent calls for papers, chapters, and other contributions where I am serving as an Editor/Guest Editor:
 
-**1. Special issue: Journal of Intelligent Construction**
+**1. Special issue: Practice Periodical on Structural Design and Construction-ASCE**
+------
+<p align="left">
+  <img src="https://liaiusc.github.io/images/ASCE SC coverface.png?raw=true" alt="Photo" style="width: 200px;"/> 
+</p>
+Topic: [Strengthening Critical Civil Infrastructure: Advancing Resilience in the Face of Climate Change, Urbanization, and Natural Hazards](https://ascelibrary.org/ppscfx/cfp-strengthening-critical). Research areas may include (but are not limited to) the following:
+   * Innovative design and construction methods for infrastructure resilience
+   * Smart technologies in urban infrastructure monitoring and maintenance
+   * Assessment techniques and rehabilitation strategies for aging infrastructure
+   * Self-healing materials and their applications in urban infrastructure
+   * Case studies on resilience infrastructure against urban natural hazard
+      
+Papers are accepted on rolling basis (no current deadline)
+
+**2. Special issue: Journal of Intelligent Construction**
 ------
 <p align="left">
   <img src="https://liaiusc.github.io/images/JIC.png?raw=true" alt="Photo" style="width: 200px;"/> 
@@ -22,7 +36,7 @@ Topic: [Advancements in Structural Health Monitoring and Condition Assessment fo
       
 Submission deadline: December 31, 2024
 
-**2. Special issue: Measurement Science and Technology (IF=2.4)**
+**3. Special issue: Measurement Science and Technology (IF=2.4)**
 ------
 <p align="left">
   <img src="https://liaiusc.github.io/images/WeChat Image_20230704023601.png?raw=true" alt="Photo" style="width: 200px;"/> 
@@ -35,7 +49,7 @@ Topic: [AI-Driven Measurement Methods for Resilient Infrastructure and Communiti
 
 Submission deadline: June 1, 2024
 
-**3. Special issue: Journal of Engineered Fibers and Fabrics (IF=2.9)**
+**4. Special issue: Journal of Engineered Fibers and Fabrics (IF=2.9)**
 ------
 <p align="left">
   <img src="https://liaiusc.github.io/images/JEF.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
@@ -50,7 +64,7 @@ Topic: [Sustainable Fiber Reinforced Cementitious Composites](https://journals.s
 Submission deadline: February 8, 2024
 
 
-**4. Special issue: materials (IF=3.4)** 
+**5. Special issue: materials (IF=3.4)** 
 ------
 <p align="left">
   <img src="https://liaiusc.github.io/images/materials.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
@@ -67,7 +81,7 @@ Topic: [Innovative Material Design and Non-Destructive Testing Applications for 
 Submission deadline: December 20, 2023
 
 
-**5. Special issue: Coatings (IF=3.4)** 
+**6. Special issue: Coatings (IF=3.4)** 
 ------
 <p align="left">
   <img src="https://liaiusc.github.io/images/coating.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
