@@ -12,7 +12,7 @@ This page contains recent calls for papers, chapters, and other contributions wh
 <p align="left">
   <img src="https://liaiusc.github.io/images/ASE.png?raw=true" alt="Photo" style="width: 200px;"/> 
 </p>
-Topic: [AI-driven Monitoring and Condition Assessment for Enhancing Infrastructure Resilience](https://ascelibrary.org/ppscfx/cfp-strengthening-critical). Research areas may include (but are not limited to) the following:
+Topic: [AI-driven Monitoring and Condition Assessment for Enhancing Infrastructure Resilience](https://liaiusc.github.io/files/ASE Call for papers.pdf). Research areas may include (but are not limited to) the following:
    * Recent advancements in structural health monitoring and sensor technologies.
    * Digital twins and AI methods relevant to resilient infrastructures
    * Design principles for resilient infrastructure
