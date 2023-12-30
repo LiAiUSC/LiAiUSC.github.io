@@ -43,6 +43,7 @@ Professional Services
    * Young Academic Editor, *Journal of Traffic and Transportation Engineering* (IF=7.9)
    * Early Career Editorial Board, *Structural Durability & Health Monitoring*
    * Review Editor, *Frontiers in Aerospace*
+   * Guest Editor, *Advances in Structural Engineering* (IF=2.6)
    * Guest Editor, *Measurement Science and Technology* (IF=2.4)
    * Guest Editor, *Journal of Intelligent Construction*
    * Guest Editor, *Journal of Engineered Fibers and Fabrics* (IF=2.9)
