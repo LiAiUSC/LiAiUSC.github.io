@@ -26,8 +26,6 @@ Under Review
 
 1. **L Ai (✉)**; Laxman K C; E Elbatanouny; M Bayat; M van Tooren; P Ziehl. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*. Expert Systems with Applications. [under review](under review)
 
-1. **L Ai (✉)**; Laxman K C; E Elbatanouny; A Henderson; P Ziehl. *Assisting Load Rating Testing of Precast Reinforced Concrete Bridge Slab through Digital Twins and Field Monitoring Data*. Journal of Testing and Evaluation. [under review](under review)
-
 1. **L Ai (✉);** D Bianco; V Soltangharaei; R Anay; P Ziehl. Exploring the Impact of Aggregate Size and Reinforcement on Alkali-Silica Reaction in Concrete: A Comparative Analysis of Various Nondestructive Evaluation Techniques. Construction and Building Materials. [under review](under review)
 
 1. W Li; B Wang; R Sun; Z Lin; S Ou; **L Ai (✉)**. Energy-Efficient Multimodal Mobility Networks in Transportation Digital Twins: Strategies and Optimization. Journal of Traffic and Transportation Engineering (English Edition). [under review](under review)
