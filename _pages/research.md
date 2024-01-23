@@ -39,6 +39,7 @@ Related publications:
   <img src="https://liaiusc.github.io/images/Digital twin.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 Relate publications:
+1. **L Ai (✉)**; Laxman K C; E Elbatanouny; A Henderson; P Ziehl. *Assisting Load Rating Testing of Precast Reinforced Concrete Bridge Slab through Digital Twins and Field Monitoring Data*. Journal of Testing and Evaluation. 2024. [accepted, in press](accepted, in press)
 1. Laxman K C; N Tabassum; **L Ai (✉)**; C Cole; P Ziehl. *Automated Crack Detection and Crack Depth Prediction for Reinforced Concrete Structures using Deep Learning*, Construction and Building Materials. 2023. Vol.370:130709. [DOI](https://doi.org/10.1016/j.conbuildmat.2023.130709) 
 1. Laxman K C; A Ross; **L Ai (✉)**; A Henderson; E Elbatanouny; M Bayat; P Ziehl. *Determination of Vehicle Loads on Bridges by Acoustic Emission and an Improved Ensembled Artificial Neural Network*, Construction and Building Materials. 2023. Vol.364:129844. [DOI](https://doi.org/10.1016/j.conbuildmat.2022.129844) 
 1. **L Ai**; M Bayat; G Comert; P Ziehl. *An Autonomous Bridge Load Rating Framework Using Digital Twins*, The 13th International Workshop on Structural Health Monitoring (IWSHM 2021). [DOI](https://doi.org/10.12783/shm2021/36365)
