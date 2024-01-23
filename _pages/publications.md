@@ -48,6 +48,8 @@ Under Review
 
 Published Journal Articles 
 ------  
+1. **L Ai (✉)**; Laxman K C; E Elbatanouny; A Henderson; P Ziehl. *Assisting Load Rating Testing of Precast Reinforced Concrete Bridge Slab through Digital Twins and Field Monitoring Data*. Journal of Testing and Evaluation. 2024. [accepted, in press](accepted, in press)
+
 1. **L Ai**; V Soltangharaei; B Greer; M Bayat; P Ziehl. *Structural Health Monitoring of Stainless-Steel Nuclear Fuel Storage Canister Using Acoustic Emission*. Developments in the Built Environment. 2024. Vol.17: 100294. [DOI](https://doi.org/10.1016/j.dibe.2023.100294) 
 
 1. E Elbatanouny; **L Ai (✉)**; E Deaver; P Ziehl. *Impact of Graphene on Microstructure and Compressive Strength of Cement Mortars Utilizing Two Different Dispersion Methods*. Practice Periodical on Structural Design and Construction-ASCE. 2024. 29(1): 04023064. [DOI](https://doi.org/10.1061/PPSCFX.SCENG-1404)  
