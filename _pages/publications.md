@@ -24,9 +24,7 @@ Under Review
 ------
 1. **L Ai (✉)**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Enhancing the Rehabilitation of Timber Piles Using Fiber Reinforced Polymer: An Acoustic Emission Analysis Under Compressive Stress*. Engineering Structures. [under review](under review)
 
-1. **L Ai (✉)**; Laxman K C; E Elbatanouny; M Bayat; M van Tooren; P Ziehl. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*. Expert Systems with Applications. [under review](under review)
-
-1. **L Ai (✉);** D Bianco; V Soltangharaei; R Anay; P Ziehl. Exploring the Impact of Aggregate Size and Reinforcement on Alkali-Silica Reaction in Concrete: A Comparative Analysis of Various Nondestructive Evaluation Techniques. Construction and Building Materials. [under review](under review)
+1. **L Ai (✉);** D Bianco; V Soltangharaei; R Anay; P Ziehl. Exploring the Impact of Aggregate Size and Reinforcement on Alkali-Silica Reaction in Concrete: A Comparative Analysis of Various Nondestructive Evaluation Techniques. Measurement. [under review](under review)
 
 1. W Li; B Wang; R Sun; Z Lin; S Ou; **L Ai (✉)**. Energy-Efficient Multimodal Mobility Networks in Transportation Digital Twins: Strategies and Optimization. Journal of Traffic and Transportation Engineering (English Edition). [under review](under review)
 
@@ -40,13 +38,17 @@ Under Review
 
 1.	Y Wu; Z Zhao; P Chen; F Guo; Y Qin; S Long; **L Ai**. *Hybrid Learning Architecture for High-Speed Railroad Scene Parsing and Potential Safety Hazard Evaluation of UAV Images*. Measurement. [under review](under review)
 
-1.	D Fang; **L Ai**; J Tan; H Fu. *Immersed Force Analysis of Fish Surface with Carangiform Locomotion*. Physics of Fluids. [under review](under review)
-
-1. L Zhang; K Li; H Wang; D Liu; Z Ma; Q Zhang; M Li; W Zhang; C Wang; **L Ai**. *Research on a Multimodal Fusion Convolutional Physical Information Neural Networks Method for Improving the Precision of AE Source Planar Localization*. Measurement. [under review](under review)
-
 Published Journal Articles 
 ------  
-1. **L Ai (✉)**; Laxman K C; E Elbatanouny; A Henderson; P Ziehl. *Assisting Load Rating Testing of Precast Reinforced Concrete Bridge Slab through Digital Twins and Field Monitoring Data*. Journal of Testing and Evaluation. 2024. [accepted, in press](accepted, in press)
+1. **L Ai (✉)**; Laxman K C; E Elbatanouny; M Bayat; M van Tooren; P Ziehl. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*. Mechanical Systems and Signal Processing. 2024. [DOI](https://doi.org/10.1016/j.ymssp.2024.111586)
+
+1. L Zhang; K Li; H Wang; D Liu; Z Ma; Q Zhang; M Li; W Zhang; C Wang; **L Ai**. *Research on a Multimodal Fusion Convolutional Physical Information Neural Networks Method for Improving the Precision of AE Source Planar Localization*. Measurement. [DOI](https://doi.org/10.1016/j.measurement.2024.114995)
+
+1. P Ni; D Fang; **L Ai**. Numerical Investigation of Three-Dimensional Incompressible Fluid Flow in Curved Elastic Tube. Journal of Intelligent Construction. 2024. [DOI](https://doi.org/10.26599/JIC.2024.9180023) 
+
+1. **L Ai (✉)**; Laxman K C; E Elbatanouny; A Henderson; P Ziehl. *Assisting Load Rating Testing of Precast Reinforced Concrete Bridge Slab through Digital Twins and Field Monitoring Data*. Journal of Testing and Evaluation. 2024. [DOI](https://doi.org/10.1520/JTE20230748)
+
+1. D Fang; **L Ai**; J Tan; H Fu. *Immersed Force Analysis of Fish Surface with Carangiform Locomotion*. Physics of Fluids. 2024. Vol.36: 031903. [DOI](https://doi.org/10.1063/5.0188125)
 
 1. **L Ai**; V Soltangharaei; B Greer; M Bayat; P Ziehl. *Structural Health Monitoring of Stainless-Steel Nuclear Fuel Storage Canister Using Acoustic Emission*. Developments in the Built Environment. 2024. Vol.17: 100294. [DOI](https://doi.org/10.1016/j.dibe.2023.100294) 
 
