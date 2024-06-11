@@ -46,7 +46,7 @@ Published Journal Articles
 
 1. P Ni; D Fang; **L Ai**. Numerical Investigation of Three-Dimensional Incompressible Fluid Flow in Curved Elastic Tube. Journal of Intelligent Construction. 2024. [DOI](https://doi.org/10.26599/JIC.2024.9180023) 
 
-1. **L Ai (✉)**; Laxman K C; E Elbatanouny; A Henderson; P Ziehl. *Assisting Load Rating Testing of Precast Reinforced Concrete Bridge Slab through Digital Twins and Field Monitoring Data*. Journal of Testing and Evaluation. 2024. [DOI](https://doi.org/10.1520/JTE20230748)
+1. **L Ai (✉)**; Laxman K C; E Elbatanouny; A Henderson; P Ziehl. *Assisting Load Rating Testing of Precast Reinforced Concrete Bridge Slab through Digital Twins and Field Monitoring Data*. Journal of Testing and Evaluation. 2024. [DOI](https://asmedigitalcollection.asme.org/testingevaluation/article-abstract/doi/10.1520/JTE20230748/1200799/Assisting-Load-Rating-Testing-of-Precast?redirectedFrom=fulltext)
 
 1. D Fang; **L Ai**; J Tan; H Fu. *Immersed Force Analysis of Fish Surface with Carangiform Locomotion*. Physics of Fluids. 2024. Vol.36: 031903. [DOI](https://doi.org/10.1063/5.0188125)
 
