@@ -36,7 +36,7 @@ Under Review
 
 Published Journal Articles 
 ------  
-1.	E Elbatanouny; A Henderson; **L Ai (✉)**; L K C; B Ross; T Cousin; P Ziehl. *An Automated Load Determination System for Bridges based on Acoustic Emission and Machine Learning Techniques*. Engineering Structures. 2024. 314: 118433. [DOI](https://doi.org/10.1016/j.engstruct.2024.118433)
+1.	E Elbatanouny; A Henderson; **L Ai (✉)**; L K C; B Ross; T Cousin; P Ziehl. *Full-Scale Experimental Investigation of Prestressed Concrete Channel Bridge Girders Strengthened with Aluminum Channels*. Engineering Structures. 2024. 314: 118433. [DOI](https://doi.org/10.1016/j.engstruct.2024.118433)
 
 1. **L Ai (✉)**; Laxman K C; E Elbatanouny; M Bayat; M van Tooren; P Ziehl. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*. Mechanical Systems and Signal Processing. 2024. 218:111586. [DOI](https://doi.org/10.1016/j.ymssp.2024.111586)
 
