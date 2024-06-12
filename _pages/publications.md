@@ -9,8 +9,6 @@ In Preparation
 ------
 1. **L Ai**; E Elbatanouny; Laxman K C; P Ziehl. *Application of Digital Twins in Smart Cities: A State-of-the-Art Review*. Target Journal: [TBD](TBD), in preparation.
 
-1. E Elbatanouny; A Henderson; Laxman K C; **L Ai**; P Ziehl. *Full-Scale Experimental Investigation of Prestressed Concrete Channel Bridge Girders Strengthened with Aluminum Channels*. Target Journal: [TBD](TBD), in preparation.
-
 1. **L Ai**; E Elbatanouny; Laxman K C; S Houck; B Henderson; P Ziehl. *Rapid Localization for Low-velocity Impacts of Composite Plates Using Acoustic Emission Sensor*. Target Journal: [TBD](TBD), in preparation.
 
 1. X Yan; H Su; **L Ai**. *Self-supervised Learning Framework for Fracture Damage Assessment of Hydraulic Concrete Based on Acoustic Emission Signals*. Target Journal: [TBD](TBD), in preparation.
@@ -26,9 +24,7 @@ Under Review
 
 1. **L Ai (✉);** D Bianco; V Soltangharaei; R Anay; P Ziehl. Exploring the Impact of Aggregate Size and Reinforcement on Alkali-Silica Reaction in Concrete: A Comparative Analysis of Various Nondestructive Evaluation Techniques. Measurement. [under review](under review)
 
-1. W Li; B Wang; R Sun; Z Lin; S Ou; **L Ai (✉)**. Energy-Efficient Multimodal Mobility Networks in Transportation Digital Twins: Strategies and Optimization. Journal of Traffic and Transportation Engineering (English Edition). [under review](under review)
-
-1. E Elbatanouny; **L Ai (✉)**; A Henderson; Laxman K C; P Ziehl. *An Automated Load Determination System for Bridges based on Acoustic Emission and Machine Learning Techniques*. Engineering Structures. [under review](under review)
+1.	E Elbatanouny; **L Ai (✉)**; A Henderson; L K C; P Ziehl. An Automated Load Determination System for Bridges based on Acoustic Emission and Machine Learning Techniques. Advances in Structural Engineering. [under review](under review)
 
 1. E Elbatanouny; A Henderson; **L Ai (✉)**; P Ziehl. *Condition Assessment of Prestressed Concrete Channel Bridge Girders Using Acoustic Emission and Data-Driven Methods*. Structures, under review. [under review](under review)
 
@@ -40,9 +36,11 @@ Under Review
 
 Published Journal Articles 
 ------  
-1. **L Ai (✉)**; Laxman K C; E Elbatanouny; M Bayat; M van Tooren; P Ziehl. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*. Mechanical Systems and Signal Processing. 2024. [DOI](https://doi.org/10.1016/j.ymssp.2024.111586)
+1. E Elbatanouny; **L Ai (✉)**; A Henderson; Laxman K C; P Ziehl. *An Automated Load Determination System for Bridges based on Acoustic Emission and Machine Learning Techniques*. Engineering Structures. 2024. [DOI](https://doi.org/10.1016/j.engstruct.2024.118433)
 
-1. L Zhang; K Li; H Wang; D Liu; Z Ma; Q Zhang; M Li; W Zhang; C Wang; **L Ai**. *Research on a Multimodal Fusion Convolutional Physical Information Neural Networks Method for Improving the Precision of AE Source Planar Localization*. Measurement. [DOI](https://doi.org/10.1016/j.measurement.2024.114995)
+1. **L Ai (✉)**; Laxman K C; E Elbatanouny; M Bayat; M van Tooren; P Ziehl. *Monitoring and Automatic Characterization of Low-velocity Impacts on Composite Components Through Acoustic Emission*. Mechanical Systems and Signal Processing. 2024. 218:111586. [DOI](https://doi.org/10.1016/j.ymssp.2024.111586)
+
+1. L Zhang; K Li; H Wang; D Liu; Z Ma; Q Zhang; M Li; W Zhang; C Wang; **L Ai**. *Research on a Multimodal Fusion Convolutional Physical Information Neural Networks Method for Improving the Precision of AE Source Planar Localization*. Measurement. 235:114995. [DOI](https://doi.org/10.1016/j.measurement.2024.114995)
 
 1. P Ni; D Fang; **L Ai**. Numerical Investigation of Three-Dimensional Incompressible Fluid Flow in Curved Elastic Tube. Journal of Intelligent Construction. 2024. [DOI](https://doi.org/10.26599/JIC.2024.9180023) 
 
