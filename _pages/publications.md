@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-I have authored 33 papers, of which 24 are journal articles (16 as the first/corresponding author) and 9 are conference papers. The data and codes which are not publicly released might be available upon request.
+I have authored 34 papers, of which 25 are journal articles (16 as the first/corresponding author) and 9 are conference papers. The data and codes which are not publicly released might be available upon request.
 
 In Preparation
 ------
@@ -36,7 +36,7 @@ Under Review
 
 Published Journal Articles 
 ------  
-1. 1.	W Zhong; C Wu; **L Ai**; L Wang; D Zhu. Effects of modified multi-walled carbon nanotubes and PVA fibers on mechanical properties and microstructure of lithium slag base geopolymer. Construction and Building Materials. 2024. [in press](in press)
+1. W Zhong; C Wu; **L Ai**; L Wang; D Zhu. Effects of modified multi-walled carbon nanotubes and PVA fibers on mechanical properties and microstructure of lithium slag base geopolymer. Construction and Building Materials. 2024. [in press](in press)
 
 1.	E Elbatanouny; A Henderson; **L Ai (✉)**; L K C; B Ross; T Cousin; P Ziehl. *Full-Scale Experimental Investigation of Prestressed Concrete Channel Bridge Girders Strengthened with Aluminum Channels*. Engineering Structures. 2024. 314: 118433. [DOI](https://doi.org/10.1016/j.engstruct.2024.118433)
 
