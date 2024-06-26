@@ -36,7 +36,7 @@ Under Review
 
 Published Journal Articles 
 ------  
-1. W Zhong; C Wu; **L Ai**; L Wang; D Zhu. Effects of modified multi-walled carbon nanotubes and PVA fibers on mechanical properties and microstructure of lithium slag base geopolymer. Construction and Building Materials. 2024. [DOI]([in press](https://doi.org/10.1016/j.conbuildmat.2024.137237)
+1. W Zhong; C Wu; **L Ai**; L Wang; D Zhu. Effects of modified multi-walled carbon nanotubes and PVA fibers on mechanical properties and microstructure of lithium slag base geopolymer. Construction and Building Materials. 2024. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.137237)
 
 1.	E Elbatanouny; A Henderson; **L Ai (✉)**; L K C; B Ross; T Cousin; P Ziehl. *Full-Scale Experimental Investigation of Prestressed Concrete Channel Bridge Girders Strengthened with Aluminum Channels*. Engineering Structures. 2024. 314: 118433. [DOI](https://doi.org/10.1016/j.engstruct.2024.118433)
 
