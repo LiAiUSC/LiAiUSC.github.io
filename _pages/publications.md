@@ -20,9 +20,9 @@ In Preparation
 
 Under Review
 ------
-1. **L Ai (✉)**; T Mesaric; S Flowers; S Houck; J Widawsky; P Ziehl. Evaluation of impact energy in composites using acoustic emission sensing technique. Measurement Science and Technology. [under review](under review)
+1. **L Ai (✉)**; T Mesaric; S Flowers; S Houck; J Widawsky; P Ziehl. *Evaluation of impact energy in composites using acoustic emission sensing technique*. Measurement Science and Technology. [under review](under review)
 
-1. **L Ai (✉)**; D Bianco; V Soltangharaei; R Anay; P Ziehl. Exploring the Impact of Aggregate Size and Reinforcement on Alkali-Silica Reaction in Concrete: A Comparative Analysis of Various Nondestructive Evaluation Techniques. Mechanical Systems and Signal Processing. [under review](under review)
+1. **L Ai (✉)**; D Bianco; V Soltangharaei; R Anay; P Ziehl. *Exploring the Impact of Aggregate Size and Reinforcement on Alkali-Silica Reaction in Concrete: A Comparative Analysis of Various Nondestructive Evaluation Techniques*. Mechanical Systems and Signal Processing. [under review](under review)
 
 1. **L Ai (✉)**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Enhancing the Rehabilitation of Timber Piles Using Fiber Reinforced Polymer: An Acoustic Emission Analysis Under Compressive Stress*. Engineering Structures. [under review](under review)
 
@@ -36,9 +36,9 @@ Under Review
 
 Published Journal Articles 
 ------  
-1.	E Elbatanouny; A Henderson; **L Ai (✉)**; P Ziehl. Condition Assessment of Prestressed Concrete Channel Bridge Girders Using Acoustic Emission and Data-Driven Methods. Structures. 2024. 67: 107008. [DOI](https://doi.org/10.1016/j.istruc.2024.107008)
+1.	E Elbatanouny; A Henderson; **L Ai (✉)**; P Ziehl. *Condition Assessment of Prestressed Concrete Channel Bridge Girders Using Acoustic Emission and Data-Driven Methods*. Structures. 2024. 67: 107008. [DOI](https://doi.org/10.1016/j.istruc.2024.107008)
 
-1. W Zhong; C Wu; **L Ai**; L Wang; D Zhu. Effects of modified multi-walled carbon nanotubes and PVA fibers on mechanical properties and microstructure of lithium slag base geopolymer. Construction and Building Materials. 2024. 438:137237. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.137237)
+1. W Zhong; C Wu; **L Ai**; L Wang; D Zhu. *Effects of modified multi-walled carbon nanotubes and PVA fibers on mechanical properties and microstructure of lithium slag base geopolymer*. Construction and Building Materials. 2024. 438:137237. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.137237)
 
 1.	E Elbatanouny; A Henderson; **L Ai (✉)**; L K C; B Ross; T Cousin; P Ziehl. *Full-Scale Experimental Investigation of Prestressed Concrete Channel Bridge Girders Strengthened with Aluminum Channels*. Engineering Structures. 2024. 314: 118433. [DOI](https://doi.org/10.1016/j.engstruct.2024.118433)
 
@@ -90,7 +90,7 @@ Published Journal Articles
 
 Published Conference Proceedings
 ------
-1. **L Ai**; T Mesaric; S Flowers; S Houck; J Widawsky; B Henderson; P Ziehl. Evaluating Impact Damage in Urban Air Mobility Using Acoustic Emission Sensing and a Probability-Based Classification Method. Transformative Vertical Flight (TVF) 2024. [DOI](https://vtol.org/store/product/evaluating-impact-damage-in-urban-air-mobility-using-acoustic-emission-sensing-and-a-probabilitybased-classification-method-18540.cfm)
+1. **L Ai**; T Mesaric; S Flowers; S Houck; J Widawsky; B Henderson; P Ziehl. *Evaluating Impact Damage in Urban Air Mobility Using Acoustic Emission Sensing and a Probability-Based Classification Method*. Transformative Vertical Flight (TVF) 2024. [DOI](https://vtol.org/store/product/evaluating-impact-damage-in-urban-air-mobility-using-acoustic-emission-sensing-and-a-probabilitybased-classification-method-18540.cfm)
 
 1. **L Ai**; B Henderson; S Houck; S Dickson; P Ziehl. *Identifying the Energy of Low-velocity Impacts on Composite Components Using Acoustic Emission*. 2023 IEEE Aerospace Conference. 2023 Mar 4. [DOI](https://doi.org/10.1109/AERO55745.2023.10116008) [PDF](TBD)
 
