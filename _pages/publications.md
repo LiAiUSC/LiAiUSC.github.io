@@ -36,7 +36,7 @@ Under Review
 
 Published Journal Articles 
 ------  
-1.	E Elbatanouny; A Henderson; **L Ai (✉)**; P Ziehl. Condition Assessment of Prestressed Concrete Channel Bridge Girders Using Acoustic Emission and Data-Driven Methods. Structures. 2024. 67: 107008. https://doi.org/10.1016/j.istruc.2024.107008. [DOI](https://doi.org/10.1016/j.istruc.2024.107008)
+1.	E Elbatanouny; A Henderson; **L Ai (✉)**; P Ziehl. Condition Assessment of Prestressed Concrete Channel Bridge Girders Using Acoustic Emission and Data-Driven Methods. Structures. 2024. 67: 107008. [DOI](https://doi.org/10.1016/j.istruc.2024.107008)
 
 1. W Zhong; C Wu; **L Ai**; L Wang; D Zhu. Effects of modified multi-walled carbon nanotubes and PVA fibers on mechanical properties and microstructure of lithium slag base geopolymer. Construction and Building Materials. 2024. 438:137237. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.137237)
 
