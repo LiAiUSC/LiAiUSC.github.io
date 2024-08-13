@@ -35,7 +35,7 @@ Under Review
 
 Published Journal Articles 
 ------  
-1.	Y Wu; Z Zhao; P Chen; F Guo; Y Qin; S Long; **L Ai**. *Hybrid Learning Architecture for High-Speed Railroad Scene Parsing and Potential Safety Hazard Evaluation of UAV Images*. Measurement. 2024. 239:115504. [DOI]（https://doi.org/10.1016/j.measurement.2024.115504）
+1.	Y Wu; Z Zhao; P Chen; F Guo; Y Qin; S Long; **L Ai**. *Hybrid Learning Architecture for High-Speed Railroad Scene Parsing and Potential Safety Hazard Evaluation of UAV Images*. Measurement. 2024. 239:115504. [DOI](https://doi.org/10.1016/j.measurement.2024.115504)
 
 1.	E Elbatanouny; A Henderson; **L Ai (✉)**; P Ziehl. *Condition Assessment of Prestressed Concrete Channel Bridge Girders Using Acoustic Emission and Data-Driven Methods*. Structures. 2024. 67: 107008. [DOI](https://doi.org/10.1016/j.istruc.2024.107008)
 
