@@ -24,8 +24,6 @@ Under Review
 
 1. **L Ai (✉)**; D Bianco; V Soltangharaei; R Anay; P Ziehl. *Exploring the Impact of Aggregate Size and Reinforcement on Alkali-Silica Reaction in Concrete: A Comparative Analysis of Various Nondestructive Evaluation Techniques*. Mechanical Systems and Signal Processing. [under review](under review)
 
-1. **L Ai (✉)**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Enhancing the Rehabilitation of Timber Piles Using Fiber Reinforced Polymer: An Acoustic Emission Analysis Under Compressive Stress*. Engineering Structures. [under review](under review)
-
 1.	E Elbatanouny; **L Ai (✉)**; A Henderson; L K C; P Ziehl. An Automated Load Determination System for Bridges based on Acoustic Emission and Machine Learning Techniques. Advances in Structural Engineering. [under review](under review)
 
 1. S Zhou; C Wu; Y Hu; D Zhu; **L Ai**. *Investigating the Constitutive Relationship of Steel-fiber-reinforced Recycled Fine Aggregate Concrete under Uniaxial Compression*. Journal of Engineered Fibers and Fabrics. [under review](under review)
