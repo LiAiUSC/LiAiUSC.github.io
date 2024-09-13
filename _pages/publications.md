@@ -31,7 +31,7 @@ Under Review
 
 Published Journal Articles 
 ------  
-1.	E Elbatanouny; **L Ai (✉)**; A Henderson; L K C; P Ziehl. An Automated Load Determination System for Bridges based on Acoustic Emission and Machine Learning Techniques. Advances in Structural Engineering. [accepted](accepted)
+1.	E Elbatanouny; **L Ai (✉)**; A Henderson; L K C; P Ziehl. An Automated Load Determination Approach for Concrete Girder Bridges Through Acoustic Emission. Advances in Structural Engineering. [accepted](accepted)
 
 1. **L Ai (✉)**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Enhancing the Rehabilitation of Timber Piles Using Fiber Reinforced Polymer: An Acoustic Emission Analysis Under Compressive Stress*. Engineering Structures. 2024. 319: 118915. [DOI](https://doi.org/10.1016/j.engstruct.2024.118915)
    
