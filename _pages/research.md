@@ -9,7 +9,7 @@ author_profile: true
   <img src="https://liaiusc.github.io/images/Timber.png?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 Related publications:
-1. **L Ai (✉)**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Enhancing the Rehabilitation of Timber Piles Using Fiber Reinforced Polymer: An Acoustic Emission Analysis Under Compressive Stress*. Engineering Structures. [under review](under review) 
+1. **L Ai (✉)**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Enhancing the Rehabilitation of Timber Piles Using Fiber Reinforced Polymer: An Acoustic Emission Analysis Under Compressive Stress*. Engineering Structures. 2024. 319: 118915. [DOI](https://doi.org/10.1016/j.engstruct.2024.118915)
 
 ## Cost-effective Strengthening Methods of Bridge Slab/Girder
 <p align="center">
