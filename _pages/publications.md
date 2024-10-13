@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-I have authored 38 papers, of which 29 are journal articles (19 as the first/corresponding author) and 9 are conference papers. The data and codes which are not publicly released might be available upon request.
+I have authored 39 papers, of which 30 are journal articles (20 as the first/corresponding author) and 9 are conference papers. The data and codes which are not publicly released might be available upon request.
 
 In Preparation
 ------
@@ -31,7 +31,9 @@ Under Review
 
 Published Journal Articles 
 ------  
-1.	E Elbatanouny; **L Ai (✉)**; A Henderson; L K C; P Ziehl. An Automated Load Determination Approach for Concrete Girder Bridges Through Acoustic Emission. Advances in Structural Engineering. [accepted](accepted)
+1. **L Ai (✉)**; P Ziehl. Advances of digital twin technology in industry: A Review of Applications, Challenges, and Standardization. Journal of Intelligent Construction. [in press](in press)
+
+1.	E Elbatanouny; **L Ai (✉)**; A Henderson; L K C; P Ziehl. An Automated Load Determination Approach for Concrete Girder Bridges Through Acoustic Emission. Advances in Structural Engineering. 2024. 13694332241289163. [DOI](https://doi.org/10.1177/13694332241289163)
 
 1. **L Ai (✉)**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Enhancing the Rehabilitation of Timber Piles Using Fiber Reinforced Polymer: An Acoustic Emission Analysis Under Compressive Stress*. Engineering Structures. 2024. 319: 118915. [DOI](https://doi.org/10.1016/j.engstruct.2024.118915)
    
