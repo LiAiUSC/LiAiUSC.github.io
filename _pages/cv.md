@@ -27,6 +27,7 @@ Employment History
 
 Awards and Honors 
 ------
+* 2024, IOP Publishing Top Cited Paper Award North America
 * 2023, Outstanding Reviewer Award for the year 2022, Practice Periodical on Structural Design and Construction-ASCE
 * 2022, Adrian Pollock Student Award, AEWG-63 – The Acoustic Emission Working Group Annual Meeting
 * 2021, M. Bert Storey Graduate Fellowship, Department of Civil and Environmental Engineering, University of South Carolina
@@ -36,26 +37,27 @@ Awards and Honors
 Professional Services 
 ------
 * Editorial board:
-   * Associate Editor, *Practice Periodical on Structural Design and Construction-ASCE* (IF=1.9)
-   * Editorial Board, *Civil Engineering Journal* (IF=4.1)
-   * Editorial Board, International Journal of Engineering Sciences and Technologies  
+   * Associate Editor, *ASCE Journal of Structural Design and Construction Practice*
+   * Editorial Board, *ASTM Journal of Testing and Evaluation*
+   * Editorial Board, *Civil Engineering Journal* 
    * Youth Editorial Board, *Journal of Intelligent Construction*
-   * Young Academic Editor, *Journal of Traffic and Transportation Engineering* (IF=7.9)
+   * Young Academic Editor, *Journal of Traffic and Transportation Engineering* 
    * Early Career Editorial Board, *Structural Durability & Health Monitoring*
-   * Review Editor, *Frontiers in Aerospace*
-   * Guest Editor, *Advances in Structural Engineering* (IF=2.6)
-   * Guest Editor, *Measurement Science and Technology* (IF=2.4)
-   * Guest Editor, *Journal of Intelligent Construction*
-   * Guest Editor, *Journal of Engineered Fibers and Fabrics* (IF=2.9)
-   * Guest Editor, *Materials* (IF=3.4)
-   * Guest Editor, *Coatings* (IF=3.4)
- 
+   * Guest Editor, *Developments in the Built Environment* 
+   * Guest Editor, *Advances in Structural Engineering* 
+   * Guest Editor, *Measurement Science and Technology*
+   * Guest Editor, *Journal of Engineered Fibers and Fabrics*
+  
+* Conference committee:
+   * Co-chair of special session: Structural Health Monitoring of Intelligent Civil Infrastructure using Fiber Optic Sensing, SHMII-13
+   * Co-chair of mini symposia: Inverse problems and risk analysis for system diagnostics and damage detection in structural health monitoring, EMI 2025
+   
 * Member:
    * Member of American Society of Civil Engineers (ASCE)
    * Member of Acoustic Emission Working Group (AEWG)
- 
+
 * Reviewer: 
-   * *Practice Periodical on Structural Design and Construction-ASCE*
+   * *ASCE Journal of Structural Design and Construction Practice*
    * *Structural Health Monitoring-SAGE*
    * *Construction and Building Materials*
    * *IEEE Sensor Journal*
