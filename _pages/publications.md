@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-I have authored 39 papers, of which 30 are journal articles (20 as the first/corresponding author) and 9 are conference papers. The data and codes which are not publicly released might be available upon request.
+I have authored 41 papers, of which 31 are journal articles (20 as the first/corresponding author) and 10 are conference papers. The data and codes which are not publicly released might be available upon request.
 
 In Preparation
 ------
@@ -32,6 +32,8 @@ Under Review
 Published Journal Articles 
 ------  
 1. **L Ai (✉)**; P Ziehl. Advances of digital twin technology in industry: A Review of Applications, Challenges, and Standardization. Journal of Intelligent Construction. [in press](in press)
+
+1.	H Wang; L Zhang; K Li; W Zhang; Z Ma; X Chen; **L Ai**; D Liu; N Yang; S Liu; F Meng. Metal surface crack depth laser acoustic emission detection method based on multivariate feature adaptive extraction and cross-modal interaction fusion. Measurement. 2024. 242C:116020. [DOI](https://doi.org/10.1016/j.measurement.2024.116020)
 
 1.	E Elbatanouny; **L Ai (✉)**; A Henderson; L K C; P Ziehl. An Automated Load Determination Approach for Concrete Girder Bridges Through Acoustic Emission. Advances in Structural Engineering. 2024. p.13694332241289163. [DOI](https://doi.org/10.1177/13694332241289163)
 
@@ -93,6 +95,8 @@ Published Journal Articles
 
 Published Conference Proceedings
 ------
+1.	**L Ai**; T Mesaric; S Flowers; S Houck; J Widawsky; B Henderson; P Ziehl. Assessing Impact-Related Damage in Urban Air Mobility With Acoustic Emission Sensing. 51st Annual Review of Progress in QNDE-2024. [DOI](https://doi.org/10.1115/QNDE2024-133619).
+
 1. **L Ai**; T Mesaric; S Flowers; S Houck; J Widawsky; B Henderson; P Ziehl. *Evaluating Impact Damage in Urban Air Mobility Using Acoustic Emission Sensing and a Probability-Based Classification Method*. Transformative Vertical Flight (TVF) 2024. [DOI](https://vtol.org/store/product/evaluating-impact-damage-in-urban-air-mobility-using-acoustic-emission-sensing-and-a-probabilitybased-classification-method-18540.cfm)
 
 1. **L Ai**; B Henderson; S Houck; S Dickson; P Ziehl. *Identifying the Energy of Low-velocity Impacts on Composite Components Using Acoustic Emission*. 2023 IEEE Aerospace Conference. 2023 Mar 4. [DOI](https://doi.org/10.1109/AERO55745.2023.10116008) [PDF](TBD)
