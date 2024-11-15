@@ -31,7 +31,7 @@ Under Review
 
 Published Journal Articles 
 ------  
-1. **L Ai (✉)**; P Ziehl. Advances in digital twin technology in industry: A Review of Applications, Challenges, and Standardization. Journal of Intelligent Construction. 2024. [DOI](https://doi.org/10.26599/JIC.2025.9180083)
+1. **L Ai (✉)**; P Ziehl. Advances in digital twin technology in industry: A Review of Applications, Challenges, and Standardization. Journal of Intelligent Construction. 2024. [DOI](https://doi.org/10.26599/JIC.2025.9180083) [PDF](https://liaiusc.github.io/files/Advances in digital twin technology in industry_ A review of applications, challenges, and standardization (1).pdf) 
 
 1.	H Wang; L Zhang; K Li; W Zhang; Z Ma; X Chen; **L Ai**; D Liu; N Yang; S Liu; F Meng. Metal surface crack depth laser acoustic emission detection method based on multivariate feature adaptive extraction and cross-modal interaction fusion. Measurement. 2024. 242C:116020. [DOI](https://doi.org/10.1016/j.measurement.2024.116020)
 
