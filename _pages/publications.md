@@ -5,24 +5,9 @@ author_profile: true
 ---
 I have authored 44 papers, of which 34 are journal articles (22 as the first/corresponding author) and 10 are conference papers. The data and codes which are not publicly released might be available upon request.
 
-In Preparation
-------
-1. **L Ai**; E Elbatanouny; Laxman K C; P Ziehl. *Application of Digital Twins in Smart Cities: A State-of-the-Art Review*. Target Journal: [TBD](TBD), in preparation.
-
-1. **L Ai**; E Elbatanouny; Laxman K C; S Houck; B Henderson; P Ziehl. *Rapid Localization for Low-velocity Impacts of Composite Plates Using Acoustic Emission Sensor*. Target Journal: [TBD](TBD), in preparation.
-
-1. X Yan; H Su; **L Ai**. *Self-supervised Learning Framework for Fracture Damage Assessment of Hydraulic Concrete Based on Acoustic Emission Signals*. Target Journal: [TBD](TBD), in preparation.
-
-1. X Yan; H Su; **L Ai**. *Estimation of Cracking and Damage Mechanisms in Hydraulic Concrete under Three-point Bending by Moment Tensor Analysis of Acoustic Emission*. Target Journal: [TBD](TBD), in preparation.
-
-1. X Yan; H Su; **L Ai**. *Numerical Simulation Method of Acoustic Emission for Hydraulic Concrete Failure Considering Material Heterogeneity*. Target Journal: [TBD](TBD), in preparation.
-
-
 Under Review
 ------
-1. **L Ai (✉)**; T Mesaric; S Flowers; S Houck; J Widawsky; P Ziehl. *Evaluation of impact energy in composites using acoustic emission sensing technique*. Measurement Science and Technology. [under review](under review)
-
-1. **L Ai (✉)**; D Bianco; V Soltangharaei; R Anay; P Ziehl. *Exploring the Impact of Aggregate Size and Reinforcement on Alkali-Silica Reaction in Concrete: A Comparative Analysis of Various Nondestructive Evaluation Techniques*. Mechanical Systems and Signal Processing. [under review](under review)
+1. **L Ai (✉)**; D Bianco; V Soltangharaei; R Anay; P Ziehl. *Exploring the Impact of Aggregate Size and Reinforcement on Alkali-Silica Reaction in Concrete: A Comparative Analysis of Various Nondestructive Evaluation Techniques*. Measurement Science and Technology. [under review](under review)
 
 1. S Zhou; C Wu; Y Hu; D Zhu; **L Ai**. *Investigating the Constitutive Relationship of Steel-fiber-reinforced Recycled Fine Aggregate Concrete under Uniaxial Compression*. Journal of Engineered Fibers and Fabrics. [under review](under review)
 
