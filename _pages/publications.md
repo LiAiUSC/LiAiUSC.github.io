@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-I have authored 42 papers, of which 32 are journal articles (20 as the first/corresponding author) and 10 are conference papers. The data and codes which are not publicly released might be available upon request.
+I have authored 44 papers, of which 34 are journal articles (22 as the first/corresponding author) and 10 are conference papers. The data and codes which are not publicly released might be available upon request.
 
 In Preparation
 ------
@@ -31,17 +31,21 @@ Under Review
 
 Published Journal Articles 
 ------  
-1. **L Ai (✉)**; P Ziehl. Advances in digital twin technology in industry: A Review of Applications, Challenges, and Standardization. Journal of Intelligent Construction. 2024. [DOI](https://doi.org/10.26599/JIC.2025.9180083) [PDF](https://liaiusc.github.io/files/Advances in digital twin technology in industry_ A review of applications, challenges, and standardization (1).pdf) 
+1.	**L Ai (✉)**; T Mesaric; S Flowers; S Houck; J Widawsky; P Ziehl. *Evaluation of impact energy in composites using acoustic emission sensing technique*. Measurement Science and Technology.2025. [Accepted](Accepted)
 
-1.	H Wang; L Zhang; K Li; W Zhang; Z Ma; X Chen; **L Ai**; D Liu; N Yang; S Liu; F Meng. Metal surface crack depth laser acoustic emission detection method based on multivariate feature adaptive extraction and cross-modal interaction fusion. Measurement. 2024. 242C:116020. [DOI](https://doi.org/10.1016/j.measurement.2024.116020)
+1.	H Wang; L Zhang; K Li; W Zhang; Z Ma; X Chen; **L Ai**; D Liu; N Yang; S Liu; F Meng. Metal surface crack depth laser acoustic emission detection method based on multivariate feature adaptive extraction and cross-modal interaction fusion. Measurement. 2025. 242C:116020. [DOI](https://doi.org/10.1016/j.measurement.2024.116020)
+
+1. **L Ai (✉)**; P Ziehl. Advances in digital twin technology in industry: A Review of Applications, Challenges, and Standardization. Journal of Intelligent Construction. 2025. [DOI](https://doi.org/10.26599/JIC.2025.9180083) [PDF](https://liaiusc.github.io/files/Advances in digital twin technology in industry_ A review of applications, challenges, and standardization (1).pdf)
+
+1.	Y Wu; Z Zhao; P Chen; F Guo; Y Qin; S Long; **L Ai**. *Hybrid Learning Architecture for High-Speed Railroad Scene Parsing and Potential Safety Hazard Evaluation of UAV Images*. Measurement. 2025. 239:115504. [DOI](https://doi.org/10.1016/j.measurement.2024.115504)
 
 1.	E Elbatanouny; **L Ai (✉)**; A Henderson; L K C; P Ziehl. An Automated Load Determination Approach for Concrete Girder Bridges Through Acoustic Emission. Advances in Structural Engineering. 2024. p.13694332241289163. [DOI](https://doi.org/10.1177/13694332241289163)
 
 1. **L Ai (✉)**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Enhancing the Rehabilitation of Timber Piles Using Fiber Reinforced Polymer: An Acoustic Emission Analysis Under Compressive Stress*. Engineering Structures. 2024. 319: 118915. [DOI](https://doi.org/10.1016/j.engstruct.2024.118915)
    
-1.	Y Wu; Z Zhao; P Chen; F Guo; Y Qin; S Long; **L Ai**. *Hybrid Learning Architecture for High-Speed Railroad Scene Parsing and Potential Safety Hazard Evaluation of UAV Images*. Measurement. 2024. 239:115504. [DOI](https://doi.org/10.1016/j.measurement.2024.115504)
+1. P Ni; D Fang; **L Ai**; J Tan. Tan. Stability analysis of moored floating offshore seamarks. Physics of Fluids. 2024. Vol.36: 117138. [DOI](https://doi.org/10.1063/5.0235249)
 
-1. P Ni; D Fang; **L Ai**; J Tan. Tan. Stability analysis of moored floating offshore seamarks. Physics of Fluids. 2024. Vol.36: 117138. [DOI](https://doi.org/10.1063/5.0235249) 
+1.	**L Ai (✉)**; X Tan; A Akbar; G Yan. *Guest Editorial on AI-driven Monitoring and Condition Assessment for Enhancing Infrastructure Resilience*. Advances in Structural Engineering. 2024. [DOI](https://doi.org/10.1177/13694332241305913 )
 
 1.	E Elbatanouny; A Henderson; **L Ai (✉)**; P Ziehl. *Condition Assessment of Prestressed Concrete Channel Bridge Girders Using Acoustic Emission and Data-Driven Methods*. Structures. 2024. 67: 107008. [DOI](https://doi.org/10.1016/j.istruc.2024.107008)
 
