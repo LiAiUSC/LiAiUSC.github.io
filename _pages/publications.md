@@ -16,7 +16,7 @@ Under Review
 
 Published Journal Articles 
 ------  
-1.	**L Ai (✉)**; T Mesaric; S Flowers; S Houck; J Widawsky; P Ziehl. *Evaluation of impact energy in composites using acoustic emission sensing technique*. Measurement Science and Technology.2025. 36(1):0161a4. [DOI](https://doi.org/10.1088/1361-6501/ad9d6a)
+1.	**L Ai (✉)**; T Mesaric; S Flowers; S Houck; J Widawsky; P Ziehl. *Evaluation of impact energy in composites using acoustic emission sensing technique*. Measurement Science and Technology. 2025. 36(1):0161a4. [DOI](https://doi.org/10.1088/1361-6501/ad9d6a)
 
 1.	H Wang; L Zhang; K Li; W Zhang; Z Ma; X Chen; **L Ai**; D Liu; N Yang; S Liu; F Meng. Metal surface crack depth laser acoustic emission detection method based on multivariate feature adaptive extraction and cross-modal interaction fusion. Measurement. 2025. 242C:116020. [DOI](https://doi.org/10.1016/j.measurement.2024.116020)
 
