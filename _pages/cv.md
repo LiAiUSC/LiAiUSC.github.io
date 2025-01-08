@@ -37,6 +37,7 @@ Awards and Honors
 Professional Services 
 ------
 * Editorial board:
+   * Associate Editor, *Journal of Nondestructive Evaluation*
    * Associate Editor, *ASCE Journal of Structural Design and Construction Practice*
    * Editorial Board, *ASTM Journal of Testing and Evaluation*
    * Editorial Board, *Civil Engineering Journal* 
