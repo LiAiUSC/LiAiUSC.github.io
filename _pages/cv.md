@@ -38,6 +38,7 @@ Professional Services
 ------
 * Editorial board:
    * Associate Editor, *ASCE Journal of Structural Design and Construction Practice*
+   * Editorial Board, *Journal of Nondestructive Evaluation*
    * Editorial Board, *ASTM Journal of Testing and Evaluation*
    * Editorial Board, *Civil Engineering Journal* 
    * Youth Editorial Board, *Journal of Intelligent Construction*
