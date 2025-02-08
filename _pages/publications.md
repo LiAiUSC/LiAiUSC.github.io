@@ -16,7 +16,7 @@ Under Review
 
 Published Journal Articles 
 ------  
-1.	W Li; B Wang; R Sun; **L Ai**; Z Lin. Energy-Efficient Multimodal Mobility Networks in Transportation Digital Twins: Strategies and Optimization. Energy. 2025. 318: 134587.[DOI](https://doi.org/10.1016/j.energy.2025.134587)
+1.	W Li; B Wang; R Sun; **L Ai**; Z Lin. Energy-Efficient Multimodal Mobility Networks in Transportation Digital Twins: Strategies and Optimization. Energy. 2025. 318: 134587. [DOI](https://doi.org/10.1016/j.energy.2025.134587)
 
 1.	**L Ai (✉)**; T Mesaric; S Flowers; S Houck; J Widawsky; P Ziehl. *Evaluation of impact energy in composites using acoustic emission sensing technique*. Measurement Science and Technology. 2025. 36(1):0161a4. [DOI](https://doi.org/10.1088/1361-6501/ad9d6a)
 
