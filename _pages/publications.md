@@ -3,11 +3,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-I have authored 44 papers, of which 34 are journal articles (22 as the first/corresponding author) and 10 are conference papers. The data and codes which are not publicly released might be available upon request.
+I have authored 45 papers, of which 35 are journal articles (22 as the first/corresponding author) and 10 are conference papers. The data and codes which are not publicly released might be available upon request.
 
 Under Review
 ------
-1. **L Ai (✉)**; D Bianco; V Soltangharaei; R Anay; P Ziehl. *Exploring the Impact of Aggregate Size and Reinforcement on Alkali-Silica Reaction in Concrete: A Comparative Analysis of Various Nondestructive Evaluation Techniques*. Measurement Science and Technology. [under review](under review)
+1. **L Ai (✉)**; D Bianco; V Soltangharaei; R Anay; P Ziehl. *Exploring the Impact of Aggregate Size and Reinforcement on Alkali-Silica Reaction in Concrete: A Comparative Analysis of Various Nondestructive Evaluation Techniques*. Developments in the Built Environment. [under review](under review)
 
 1. S Zhou; C Wu; Y Hu; D Zhu; **L Ai**. *Investigating the Constitutive Relationship of Steel-fiber-reinforced Recycled Fine Aggregate Concrete under Uniaxial Compression*. Journal of Engineered Fibers and Fabrics. [under review](under review)
 
@@ -16,6 +16,8 @@ Under Review
 
 Published Journal Articles 
 ------  
+1.	W Li; B Wang; R Sun; **L Ai**; Z Lin. Energy-Efficient Multimodal Mobility Networks in Transportation Digital Twins: Strategies and Optimization. Energy. 2025. 318: 134587. [DOI] (https://doi.org/10.1016/j.energy.2025.134587)
+
 1.	**L Ai (✉)**; T Mesaric; S Flowers; S Houck; J Widawsky; P Ziehl. *Evaluation of impact energy in composites using acoustic emission sensing technique*. Measurement Science and Technology. 2025. 36(1):0161a4. [DOI](https://doi.org/10.1088/1361-6501/ad9d6a)
 
 1.	H Wang; L Zhang; K Li; W Zhang; Z Ma; X Chen; **L Ai**; D Liu; N Yang; S Liu; F Meng. Metal surface crack depth laser acoustic emission detection method based on multivariate feature adaptive extraction and cross-modal interaction fusion. Measurement. 2025. 242C:116020. [DOI](https://doi.org/10.1016/j.measurement.2024.116020)
