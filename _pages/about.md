@@ -38,6 +38,7 @@ My recent works include:
 Recent News
 ------
 * Jan, 2025. I was appointed as an editorial board member for the *Journal of Nondestructive Evaluation*
+* Jan, 2025. I was appointed as an editorial board member for the [*Journal of Nondestructive Evaluation*](https://link.springer.com/journal/10921)
 * Oct, 2024. I was appointed as an editorial board member for the *ASTM Journal of Testing and Evaluation*
 * Oct, 2024. I received the IOP Publishing Top Cited Paper Award North America.
 * Dec, 2023. I was appointed as an early career editorial board member for the *Structural Durability & Health Monitoring*
