@@ -37,14 +37,11 @@ My recent works include:
 
 Recent News
 ------
-* Jan, 2025. I was appointed as an editorial board member for the *Journal of Nondestructive Evaluation*
 * Jan, 2025. I was appointed as an editorial board member for the [*Journal of Nondestructive Evaluation*](https://link.springer.com/journal/10921)
-* Oct, 2024. I was appointed as an editorial board member for the *ASTM Journal of Testing and Evaluation*
+* Oct, 2024. I was appointed as an editorial board member for the [*ASTM Journal of Testing and Evaluation*](https://www.astm.org/journal-of-testing-and-evaluation.html)
 * Oct, 2024. I received the IOP Publishing Top Cited Paper Award North America.
-* Dec, 2023. I was appointed as an early career editorial board member for the *Structural Durability & Health Monitoring*
-* Nov, 2023. I was appointed as an editorial board member for the *Civil Engineering Journal*.
-* Oct, 2023. I was appointed as a young academic editor for the *Journal of Traffic and Transportation Engineering*.
-* May, 2023. I was appointed as a youth editorial board member for the *Journal of Intelligent Construction*
-* Apr, 2023. I was appointed as an associate editor for the *ASCE Journal of Structural Design and Construction Practice*.
+* Dec, 2023. I was appointed as an early career editorial board member for the [*Structural Durability & Health Monitoring*](https://www.techscience.com/journal/sdhm)
+* Nov, 2023. I was appointed as an editorial board member for the [*Civil Engineering Journal*](https://www.civilejournal.org/index.php/cej)
+* Apr, 2023. I was appointed as an associate editor for the [*ASCE Journal of Structural Design and Construction Practice*](https://ascelibrary.org/journal/jsdccc)
 * May, 2022. I won the paper competition at AEWG63 and received the Adrian Pollock Student Award.
 
