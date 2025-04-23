@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-I have authored 45 papers, of which 35 are journal articles (22 as the first/corresponding author) and 10 are conference papers. The data and codes which are not publicly released might be available upon request.
+I have authored 46 papers, of which 36 are journal articles (22 as the first/corresponding author) and 10 are conference papers. The data and codes which are not publicly released might be available upon request.
 
 Under Review
 ------
@@ -16,6 +16,8 @@ Under Review
 
 Published Journal Articles 
 ------  
+1. C Wu; Y Wang; Y Shi; Y Hu; D Zhu; **L Ai**; Z Li; Y Lu. *Lithium slag-ground granulated blast furnace slag based geopolymer: Efflorescence mechanism analysis*. Construction and Building Materials. 205. 4378:141418. [DOI](https://doi.org/10.1016/j.conbuildmat.2025.141418)
+
 1.	W Li; B Wang; R Sun; **L Ai**; Z Lin. Energy-Efficient Multimodal Mobility Networks in Transportation Digital Twins: Strategies and Optimization. Energy. 2025. 318: 134587. [DOI](https://doi.org/10.1016/j.energy.2025.134587)
 
 1.	**L Ai (✉)**; T Mesaric; S Flowers; S Houck; J Widawsky; P Ziehl. *Evaluation of impact energy in composites using acoustic emission sensing technique*. Measurement Science and Technology. 2025. 36(1):0161a4. [DOI](https://doi.org/10.1088/1361-6501/ad9d6a)
