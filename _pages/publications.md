@@ -114,11 +114,13 @@ Published Conference Papers
 
 Book Chapters
 ------
+1.	H Chang; **L Ai**; F Guo; X Zhang. *Innovative Material Design and Nondestructive Testing Applications for Infrastructure*. 2025. ISBN 978-3-7258-3334-4. [DOI](https://doi.org/10.3390/books978-3-7258-3333-7) 
 
-1. V Soltangharaei; **L Ai**; P Ziehl. *Implementation of Data-Driven Approaches for Condition Assessment of Structures and Analyzing Complex Data*. Leveraging Artificial Intelligence in Engineering, Management, and Safety of Infrastructure 2022 Nov 17 (pp. 91-119). CRC Press. [DOI](https://doi.org/10.1201/9780367823467-5) [PDF](https://liaiusc.github.io/files/Book Chapter-vafa.pdf)
+1. V Soltangharaei; **L Ai**; P Ziehl. *Implementation of Data-Driven Approaches for Condition Assessment of Structures and Analyzing Complex Data*. Leveraging Artificial Intelligence in Engineering, Management, and Safety of Infrastructure 2022 Nov 17 (pp. 91-119). CRC Press. ISBN 9780367823467. [DOI](https://doi.org/10.1201/9780367823467-5) [PDF](https://liaiusc.github.io/files/Book Chapter-vafa.pdf)
 
 Technical Reports
 ------
+1.	P Ziehl; **L Ai**; G Comert. *Intelligent Asset Management for Improved Mobility: Technology Transfer for South Carolina*. Center for Connected Multimodal Mobility (Tier 1 University Transportation Center), Clemson University, 2025.
 
 1. J Zhu; H Sun; C Malone; P Ziehl; **L Ai**; M Bayat; Y Zhang; Taeyong Shin, and Eric Giannini. *Online Monitoring System for Concrete Structures Affected by Alkali-Silica Reaction*. No. DOE-UNL-NE8544. Univ. of Nebraska, Lincoln, NE (United States), 2021. [DOI](https://doi.org/10.2172/1838356)
 
