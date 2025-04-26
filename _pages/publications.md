@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-I have authored 46 papers, of which 36 are journal articles (22 as the first/corresponding author) and 10 are conference papers. The data and codes which are not publicly released might be available upon request.
+I have authored 47 papers, of which 37 are journal articles (22 as the first/corresponding author) and 10 are conference papers. The data and codes which are not publicly released might be available upon request.
 
 Under Review
 ------
@@ -16,9 +16,11 @@ Under Review
 
 Published Journal Articles 
 ------  
+1.	H Wang; L Zhang; W Zhang; H Li; H Chi; KYang; J Zhou; **L Ai**. *Research on node-improved energy dissipation wear model for fretting fatigue prediction in railway press-fit shaft*. Wear. 2025. 574–575: 206104. [DOI](https://doi.org/10.1016/j.wear.2025.206104) 
+
 1. C Wu; Y Wang; Y Shi; Y Hu; D Zhu; **L Ai**; Z Li; Y Lu. *Lithium slag-ground granulated blast furnace slag based geopolymer: Efflorescence mechanism analysis*. Construction and Building Materials. 2025. 4378:141418. [DOI](https://doi.org/10.1016/j.conbuildmat.2025.141418)
 
-1.	W Li; B Wang; R Sun; **L Ai**; Z Lin. Energy-Efficient Multimodal Mobility Networks in Transportation Digital Twins: Strategies and Optimization. Energy. 2025. 318: 134587. [DOI](https://doi.org/10.1016/j.energy.2025.134587)
+1.	W Li; B Wang; R Sun; **L Ai**; Z Lin. *Energy-Efficient Multimodal Mobility Networks in Transportation Digital Twins: Strategies and Optimization*. Energy. 2025. 318: 134587. [DOI](https://doi.org/10.1016/j.energy.2025.134587)
 
 1.	**L Ai (✉)**; T Mesaric; S Flowers; S Houck; J Widawsky; P Ziehl. *Evaluation of impact energy in composites using acoustic emission sensing technique*. Measurement Science and Technology. 2025. 36(1):0161a4. [DOI](https://doi.org/10.1088/1361-6501/ad9d6a)
 
@@ -88,7 +90,7 @@ Published Journal Articles
 
 1. V Soltangharaei; JW Hill; **L Ai**; R Anay; B Greer; M Bayat; P Ziehl. *Acoustic Emission Technique to Identify Stress Corrosion Cracking Damage*. Structural Engineering and Mechanics. 2020. Vol.75:723-736. [DOI](https://doi.org/10.12989/sem.2020.75.6.723) [PDF](https://liaiusc.github.io/files/vafa scc.pdf)
 
-Published Conference Proceedings
+Published Conference Papers
 ------
 1.	**L Ai**; T Mesaric; S Flowers; S Houck; J Widawsky; B Henderson; P Ziehl. Assessing Impact-Related Damage in Urban Air Mobility With Acoustic Emission Sensing. 51st Annual Review of Progress in QNDE-2024. [DOI](https://doi.org/10.1115/QNDE2024-133619).
 
@@ -110,12 +112,12 @@ Published Conference Proceedings
 
 1. V Soltangharaei; R Anay; **L Ai**; Y Le Pape; Z John Ma; P Ziehl, *Monitoring Alkali Silica Reaction of Large and Medium Scale Concrete Specimens Using Acoustic Emission*. SMIRT 25. 2019 [Link](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/37935/SMiRT5-3-2019-Final.pdf?sequence=1) [PDF](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/37935/SMiRT5-3-2019-Final.pdf?sequence=1)
 
-Book Chapter
+Book Chapters
 ------
 
 1. V Soltangharaei; **L Ai**; P Ziehl. *Implementation of Data-Driven Approaches for Condition Assessment of Structures and Analyzing Complex Data*. Leveraging Artificial Intelligence in Engineering, Management, and Safety of Infrastructure 2022 Nov 17 (pp. 91-119). CRC Press. [DOI](https://doi.org/10.1201/9780367823467-5) [PDF](https://liaiusc.github.io/files/Book Chapter-vafa.pdf)
 
-Technical Report
+Technical Reports
 ------
 
 1. J Zhu; H Sun; C Malone; P Ziehl; **L Ai**; M Bayat; Y Zhang; Taeyong Shin, and Eric Giannini. *Online Monitoring System for Concrete Structures Affected by Alkali-Silica Reaction*. No. DOE-UNL-NE8544. Univ. of Nebraska, Lincoln, NE (United States), 2021. [DOI](https://doi.org/10.2172/1838356)
