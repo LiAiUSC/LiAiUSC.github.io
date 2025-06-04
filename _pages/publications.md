@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-I have authored 47 papers, of which 37 are journal articles (22 as the first/corresponding author) and 10 are conference papers. The data and codes which are not publicly released might be available upon request.
+I have authored 48 papers, of which 38 are journal articles (23 as the first/corresponding author) and 10 are conference papers. The data and codes which are not publicly released might be available upon request.
 
 Under Review
 ------
