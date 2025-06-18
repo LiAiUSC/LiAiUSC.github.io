@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-I have authored 48 papers, of which 38 are journal articles (23 as the first/corresponding author) and 10 are conference papers. The data and codes which are not publicly released might be available upon request.
+I have authored 49 papers, of which 39 are journal articles (23 as the first/corresponding author) and 10 are conference papers. The data and codes which are not publicly released might be available upon request.
 
 Under Review
 ------
@@ -16,6 +16,8 @@ Under Review
 
 Published Journal Articles 
 ------  
+1.	H Shan; **L Ai**; C He; K Li. *Enhancing multi-objective prediction ofsettlement around foundation pit usingexplainable machine learning*. Journal of civil Structural Health Monitoring. 2025. [in press](in press) 
+
 1.	H Wang; L Zhang; W Zhang; H Li; H Chi; KYang; J Zhou; **L Ai**. *Research on node-improved energy dissipation wear model for fretting fatigue prediction in railway press-fit shaft*. Wear. 2025. 574–575: 206104. [DOI](https://doi.org/10.1016/j.wear.2025.206104) 
 
 1. C Wu; Y Wang; Y Shi; Y Hu; D Zhu; **L Ai**; Z Li; Y Lu. *Lithium slag-ground granulated blast furnace slag based geopolymer: Efflorescence mechanism analysis*. Construction and Building Materials. 2025. 4378:141418. [DOI](https://doi.org/10.1016/j.conbuildmat.2025.141418)
