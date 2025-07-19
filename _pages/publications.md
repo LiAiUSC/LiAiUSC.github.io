@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-I have authored 49 papers, of which 39 are journal articles (23 as the first/corresponding author) and 10 are conference papers. The data and codes which are not publicly released might be available upon request.
+I have authored 51 papers, of which 40 are journal articles (23 as the first/corresponding author) and 11 are conference papers. The data and codes which are not publicly released might be available upon request.
 
 Under Review
 ------
@@ -98,6 +98,8 @@ Published Journal Articles
 
 Published Conference Papers
 ------
+1.	M.M. Shahzamanian; S Houck; **L Ai**; S Banerjee; and P Ziehl. *Compression after Impact (CAI) Test Simulation for Composite Materials In ABAQUS*. SAMPE 2025. [DOI](https://doi.org/10.33599/nasampe/s.25.0261).
+
 1.	**L Ai**; T Mesaric; S Flowers; S Houck; J Widawsky; B Henderson; P Ziehl. Assessing Impact-Related Damage in Urban Air Mobility With Acoustic Emission Sensing. 51st Annual Review of Progress in QNDE-2024. [DOI](https://doi.org/10.1115/QNDE2024-133619).
 
 1. **L Ai**; T Mesaric; S Flowers; S Houck; J Widawsky; B Henderson; P Ziehl. *Evaluating Impact Damage in Urban Air Mobility Using Acoustic Emission Sensing and a Probability-Based Classification Method*. Transformative Vertical Flight (TVF) 2024. [DOI](https://vtol.org/store/product/evaluating-impact-damage-in-urban-air-mobility-using-acoustic-emission-sensing-and-a-probabilitybased-classification-method-18540.cfm)
