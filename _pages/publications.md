@@ -16,7 +16,7 @@ Under Review
 
 Published Journal Articles 
 ------  
-1.	T Yang, F Guo, S Long, C Bai, Y Wu (✉), **L Ai (✉)**, X Wang. *An Anchor-Free Selective State Space Framework for Real-time Tunnel Structure Health Monitoring* Measurement Science and Technology. 2025. [DOI](DOI)
+1.	T Yang, F Guo, S Long, C Bai, Y Wu, **L Ai (✉)**, X Wang. *An Anchor-Free Selective State Space Framework for Real-time Tunnel Structure Health Monitoring* Measurement Science and Technology. 2025. [DOI](DOI)
 
 1.	H Shan; **L Ai**; C He; K Li. *Enhancing multi-objective prediction ofsettlement around foundation pit usingexplainable machine learning*. Journal of Civil Structural Health Monitoring. 2025. [DOI](https://doi.org/10.1007/s13349-025-00985-z) 
 
