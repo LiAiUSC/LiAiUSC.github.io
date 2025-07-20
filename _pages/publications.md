@@ -5,15 +5,6 @@ author_profile: true
 ---
 I have authored 51 papers, of which 40 are journal articles (24 as the first/corresponding author) and 11 are conference papers. The data and codes which are not publicly released might be available upon request.
 
-Under Review
-------
-1. **L Ai (✉)**; D Bianco; V Soltangharaei; R Anay; P Ziehl. *Exploring the Impact of Aggregate Size and Reinforcement on Alkali-Silica Reaction in Concrete: A Comparative Analysis of Various Nondestructive Evaluation Techniques*. Developments in the Built Environment. [under review](under review)
-
-1. S Zhou; C Wu; Y Hu; D Zhu; **L Ai**. *Investigating the Constitutive Relationship of Steel-fiber-reinforced Recycled Fine Aggregate Concrete under Uniaxial Compression*. Journal of Engineered Fibers and Fabrics. [under review](under review)
-
-1. Y Shi; J Li; X Lv; **L Ai**; X Tan; C Wu. *Research and Application of Feeding-hoisting Equipment for Sealing Leakage in Concentrated Inlets of Earth-rock Dams*. Practice Periodical on Structural Design and Construction-ASCE. [under review](under review)
-
-
 Published Journal Articles 
 ------  
 1.	T Yang, F Guo, S Long, C Bai, Y Wu, **L Ai (✉)**, X Wang. *An Anchor-Free Selective State Space Framework for Real-time Tunnel Structure Health Monitoring* Measurement Science and Technology. 2025. [DOI](DOI)
