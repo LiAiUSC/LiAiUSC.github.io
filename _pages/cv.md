@@ -19,7 +19,8 @@ Education
 
 Employment History 
 ------
-* Research Assistant Professor, University of South Carolina, Nov 2023 - Present 
+* Tenure-track Assistant Professor, The University of Texas Rio Grande Valley, Aug 2025 - Present 
+* Research Assistant Professor, University of South Carolina, Nov 2023 - Aug 2025 
 * Postdoctoral Fellow, University of South Carolina, September 2021 - Oct 2023
 * Graduate Research Assistant, University of South Carolina, January 2017 - August 2021 
 * Research Teaching Assistant, Stevens Institute of Technology, August 2016 - December 2016 
