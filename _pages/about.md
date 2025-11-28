@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hey, there! My name is Li Ai. I am an Assistant Professor in the Department of Civil Engineering, at the University of Texas Rio Grande Valley (UTRGV), starting in the fall of 2025. Pioring to joining UTRGV, I was a Research Assistant Professor at the [University of South Carolina](https://sc.edu/). I received my PhD from the University of South Carolina in 2021 under the supervision of [Dr. Paul Ziehl](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/ziehl_paul.php). I received my Master from [Stevens Institute of Technology](https://www.stevens.edu/) in 2016 under the supervision of [Dr. Marcus Rutner](https://www.tuhh.de/mvb/institute/team/prof-dr-marcus-rutner-institutsleiter.html) and [Dr. Sohphia Hassiotis](https://www.stevens.edu/news/stevens-community-celebrates-and-remembers-professor-sophia-hassiotis).
+Hey, there! My name is Li Ai. I am an Assistant Professor in the College of Engineering and Computer Science, at the University of Texas Rio Grande Valley (UTRGV). Pioring to joining UTRGV, I was a Research Assistant Professor at the [University of South Carolina](https://sc.edu/) and a researcher at the [McNair Aerospace Center](https://sc.edu/about/centers_institutes/mcnair/). I received my PhD from the University of South Carolina in 2021 under the supervision of [Dr. Paul Ziehl](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/ziehl_paul.php). I received my Master from [Stevens Institute of Technology](https://www.stevens.edu/) in 2016 under the supervision of [Dr. Marcus Rutner](https://www.tuhh.de/mvb/institute/team/prof-dr-marcus-rutner-institutsleiter.html) and [Dr. Sohphia Hassiotis](https://www.stevens.edu/news/stevens-community-celebrates-and-remembers-professor-sophia-hassiotis).
 
 
 
@@ -20,20 +20,9 @@ My research interests include:
 - Nondestructive testing (NDT)
 - Structural health monitoring (SHM)
 - Acoustic emission (AE)
-- structure strengthening and rehabilitation
-- Bridge load rating
 - AI for science/engineering
 - Cyber-physical systems
 - Digital twins. 
-
-My recent works include: 
-- Digital twin for concrete bridges
-- Cost-effective strengthening methods of bridge slab/girder 
-- AE source localization using deep learning 
-- Transfer learning framework combining finite element simulation and domain adaptation
-- Real-time AE monitoring system for alkali-silicate reaction (ASR) damage in concrete
-- AE monitoring method applied to stress corrosion cracking in nuclear spent fuel storage systems
-- Low-velocity impact monitoring framework for urban air mobility
 
 Recent News
 ------
