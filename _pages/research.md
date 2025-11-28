@@ -4,22 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-## Rehabilitation of Timber Piles Using Fiber Reinforced Polymer
-<p align="center">
-  <img src="https://liaiusc.github.io/images/Timber.png?raw=true" alt="Photo" style="width: 800px;"/> 
-</p>
-Related publications:
-1. **L Ai (✉)**; R Krol; A Henderson; V Soltangharaei; B Ross; T Cousins; P Ziehl. *Enhancing the Rehabilitation of Timber Piles Using Fiber Reinforced Polymer: An Acoustic Emission Analysis Under Compressive Stress*. Engineering Structures. 2024. 319: 118915. [DOI](https://doi.org/10.1016/j.engstruct.2024.118915)
-
-## Cost-effective Strengthening Methods of Bridge Slab/Girder
-<p align="center">
-  <img src="https://liaiusc.github.io/images/Slab.png?raw=true" alt="Photo" style="width: 800px;"/> 
-</p>
-Relate publications:
-1. E Elbatanouny; A Henderson; Laxman K C; **L Ai**; P Ziehl. *Full-Scale Experimental Investigation of Prestressed Concrete Channel Bridge Girders Strengthened with Aluminum Channels*. Target Journal: [TBD](TBD), in preparation.
-1. Laxman K C; A Henderson; E Elbatanouny; **L Ai (✉)**; B Ross; T Cousins; P Ziehl. *Cost-effective Methods for Flexural Strengthening of One-way RC Precast Flat Slab Bridges in South Carolina*. Construction and Building Materials. 2023. Vol.408: 133675. [DOI](https://doi.org/10.1016/j.conbuildmat.2023.133675)
-1. Laxman K C; A Ross; **L Ai (✉)**; A Henderson; E Elbatanouny; M Bayat; P Ziehl. *Determination of Vehicle Loads on Bridges by Acoustic Emission and an Improved Ensembled Artificial Neural Network*, Construction and Building Materials. 2023. Vol.364:129844. [DOI](https://doi.org/10.1016/j.conbuildmat.2022.129844) 
-
 ## In-flight Health Monitoring and Assessment System for Aircraft Components
 <p align="center">
   <img src="https://liaiusc.github.io/images/UAM.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
