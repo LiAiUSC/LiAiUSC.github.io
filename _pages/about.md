@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This website is no longer being updated. Please visit our lab’s new website at: [https://sites.google.com/view/liai-grou](https://sites.google.com/view/liai-grou))"
+title: "This website is no longer being updated. Please visit our lab’s new website at: [https://sites.google.com/view/liai-group](https://sites.google.com/view/liai-group))"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
