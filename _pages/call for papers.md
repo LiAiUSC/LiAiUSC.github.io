@@ -1,5 +1,5 @@
 ---
-title: "Call for papers"
+title: "This website is no longer being updated. Please visit our lab’s new website at: [https://sites.google.com/view/liai-group](https://sites.google.com/view/liai-group)"
 permalink: /call for papers/
 author_profile: true
 ---
