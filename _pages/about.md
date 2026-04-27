@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This website is no longer being updated. Please visit our lab’s new website at: [https://sites.google.com/view/liai-grou](https://sites.google.com/view/liai-grou)](https://sc.edu/about/centers_institutes/mcnair/)"
+title: "This website is no longer being updated. Please visit our lab’s new website at: [https://sites.google.com/view/liai-grou](https://sites.google.com/view/liai-grou))"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
